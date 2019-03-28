@@ -1,2 +1,58 @@
-# ansible
-A collection of articles/talks/repos which teach Ansible. 
+![Logo](ansible.png)
+
+This repository collects resources for writing good [Ansible](https://www.ansible.com/) playbooks and roles. [Please bring your own.](CONTRIBUTING.md) :blush:
+
+## Getting Started
+
+- [User Guide &raquo; Getting Started](https://docs.ansible.com/ansible/latest/user_guide/intro_getting_started.html) &mdash; Documentation section about how to initially get Ansible running
+
+- [Ansible-Boilerplate](https://github.com/acch/ansible-boilerplate) &mdash; Basic template for new Ansible projects
+
+- [Getting Started: Writing Your First Playbook](https://www.ansible.com/blog/getting-started-writing-your-first-playbook)
+
+### YAML Syntax
+
+- [User Guide &raquo; YAML Syntax](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html) &mdash; Basic overview of correct YAML syntax
+
+- [YAML](https://en.wikipedia.org/wiki/YAML) &mdash; Wikipedia, the free encyclopedia
+
+- [In YAML, how do I break a string over multiple lines?](https://stackoverflow.com/questions/3790454/in-yaml-how-do-i-break-a-string-over-multiple-lines/21699210#21699210)
+
+
+## Articles and Books
+
+- [Ansible Best Practices: The Essentials](https://www.ansible.com/blog/ansible-best-practices-essentials)
+
+- [Use Ansible's YAML callback plugin for a better CLI experience](https://www.jeffgeerling.com/blog/2018/use-ansibles-yaml-callback-plugin-better-cli-experience)
+
+- [Reboot Plugin for Linux in Ansible 2.7](https://www.ansible.com/blog/reboot-plugin-for-linux-in-ansible-2-7)
+
+- [Dealing with Unreliable Connections and Services](https://www.ansible.com/blog/ansible-tips-and-tricks-dealing-with-unreliable-connections-and-services)
+
+
+## Talks
+
+### 2017
+
+- [Best Practices for Ansible Roles Development](https://www.youtube.com/watch?v=sFuKuHmRuzQ) by [Jiri Tyr](https://github.com/jtyr) &mdash; Ansible London
+
+
+## Selected Roles
+
+- [Spectrum Scale](https://galaxy.ansible.com/acch/spectrum_scale) &mdash; Highly-customizable role for installing and configuring IBM Spectrum Scale (GPFS)
+
+- [ONTAP volume-nfs-share](https://galaxy.ansible.com/chrifey/ontap_volume_nfs_share) &mdash; Role to configure NFS exports (volume, qtree, policy)
+
+- [Regex Test](https://galaxy.ansible.com/acch/regex_test) &mdash; Role for comparing command output with reference file
+
+
+## Reference Documentation
+
+- [User Guide](https://docs.ansible.com/ansible/latest/user_guide/index.html)
+
+- [Ansible Porting Guides](https://docs.ansible.com/ansible/latest/porting_guides/porting_guides.html)
+
+
+## License
+
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
