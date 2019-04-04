@@ -1,6 +1,6 @@
 ![Logo](ansible.png)
 
-This repository collects resources for writing good [Ansible](https://www.ansible.com/) playbooks and roles. [Please bring your own.](CONTRIBUTING.md) :blush:
+This repository collects resources for learning how to write good [Ansible](https://www.ansible.com/) playbooks. [Please bring your own.](CONTRIBUTING.md) :blush:
 
 ## Getting Started
 
