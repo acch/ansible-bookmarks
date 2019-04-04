@@ -6,6 +6,6 @@
 
 3. Read the article / watch the talk / read the book and decide whether or not you would recommend it to a friend.
 
-4. If the answer to (3) is "yes" then consider adding the link to this collection by submitting a [pull request]().
+4. If the answer to (3) is "yes" then consider adding the link to this collection by submitting a [pull request](https://github.com/acch/ansible/pulls).
 
-If you're unsure, just create a [pull request]() or create a [new issue]() and we can decide together.
+If you're unsure, just create a [pull request](https://github.com/acch/ansible/pulls) or create a [new issue](https://github.com/acch/ansible/issues) and we can decide together.
