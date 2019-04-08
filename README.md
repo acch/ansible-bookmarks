@@ -36,6 +36,10 @@ This repository collects resources for learning how to write good [Ansible](http
 
 - [Best Practices for Ansible Roles Development](https://www.youtube.com/watch?v=sFuKuHmRuzQ) by [Jiri Tyr](https://github.com/jtyr) &mdash; Ansible London
 
+### 2016
+
+- [Ansible From Zero to Best Practices](https://willthames.github.io/devops-singapore-2016/01-intro.html) by [Will Thames](https://github.com/willthames) &mdash; DevOpsDays Singapore
+
 
 ## Selected Roles
 
