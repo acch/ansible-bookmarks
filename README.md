@@ -8,6 +8,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 - [Ansible-Boilerplate](https://github.com/acch/ansible-boilerplate) &mdash; Basic template for new Ansible projects
 
+- [How to automate your system administration tasks with Ansible](https://opensource.com/article/17/7/automate-sysadmin-ansible)
+
 - [Getting Started: Writing Your First Playbook](https://www.ansible.com/blog/getting-started-writing-your-first-playbook)
 
 ### YAML Syntax
