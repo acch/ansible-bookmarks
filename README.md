@@ -52,6 +52,13 @@ This repository collects resources for learning how to write good [Ansible](http
 - [Regex Test](https://galaxy.ansible.com/acch/regex_test) &mdash; Role for comparing command output with reference file
 
 
+## Cheatsheets
+
+- [Ansible Cheat Sheet from Jon Warbrick](https://gist.github.com/andreicristianpetcu/b892338de279af9dac067891579cad7d)
+
+- [Devhints.io cheatcheets](https://devhints.io/ansible)
+
+
 ## Reference Documentation
 
 - [User Guide](https://docs.ansible.com/ansible/latest/user_guide/index.html)
