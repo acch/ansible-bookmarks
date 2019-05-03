@@ -58,11 +58,14 @@ This repository collects resources for learning how to write good [Ansible](http
 
 - [Porting Guides](https://docs.ansible.com/ansible/latest/porting_guides/porting_guides.html)
 
+- [Linux System Roles](https://linux-system-roles.github.io/)
+
 ### Jinja2
 
 - [Template Designer Documentation](http://jinja.pocoo.org/docs/2.10/templates/)
 
 - [User Guide &raquo; Templating Jinja2](https://docs.ansible.com/ansible/latest/user_guide/playbooks_templating.html)
+
 
 ## License
 
