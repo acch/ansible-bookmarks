@@ -34,6 +34,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 ## Talks
 
+- [Training Course for Ansible Automation](https://github.com/ansible/workshops)
+
 ### 2017
 
 - [Best Practices for Ansible Roles Development](https://www.youtube.com/watch?v=sFuKuHmRuzQ) by [Jiri Tyr](https://github.com/jtyr) &mdash; Ansible London
