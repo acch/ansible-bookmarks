@@ -12,6 +12,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 - [Getting Started: Writing Your First Playbook](https://www.ansible.com/blog/getting-started-writing-your-first-playbook)
 
+- [Install Ansible on Windows Using Cygwin](http://www.dcaulfield.com/install-ansible-on-windows-using-cygwin)
+
 ### YAML Syntax
 
 - [User Guide &raquo; YAML Syntax](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html) &mdash; Basic overview of correct YAML syntax
