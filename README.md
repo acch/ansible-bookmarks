@@ -53,6 +53,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 - [ONTAP volume-nfs-share](https://galaxy.ansible.com/chrifey/ontap_volume_nfs_share) &mdash; Role to configure NFS exports (volume, qtree, policy)
 
+- [Spectrum Virtualize IP-Quorum](https://galaxy.ansible.com/olemyk/ansible_ipquorum) &mdash; Role that installs and configures IP-Quorum service for IBM Spectrum Virtualize
+
 - [Regex Test](https://galaxy.ansible.com/acch/regex_test) &mdash; Role for comparing command output with reference file
 
 
