@@ -33,6 +33,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 - [Dealing with Unreliable Connections and Services](https://www.ansible.com/blog/ansible-tips-and-tricks-dealing-with-unreliable-connections-and-services)
 
+- [Ansible Configuration Management Database - Generate host overview from ansible fact gathering output](https://github.com/fboender/ansible-cmdb)
+
 
 ## Talks
 
