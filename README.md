@@ -35,6 +35,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 - [Ansible Configuration Management Database - Generate host overview from ansible fact gathering output](https://github.com/fboender/ansible-cmdb)
 
+- [Ansible recipes and gotchas](https://github.com/andiveloper/ansible-recipes-and-gotchas)
+
 
 ## Talks
 
