@@ -1,4 +1,9 @@
-![Logo](ansible.png)
+<div align="center">
+  <br>
+  <img width="203" height="250" src="ansible.png" alt="Ansible logo">
+  <br>
+  <br>
+</div>
 
 This repository collects resources for learning how to write good [Ansible](https://www.ansible.com/) playbooks. [Please bring your own.](CONTRIBUTING.md) :blush:
 
