@@ -42,6 +42,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 - [Ansible recipes and gotchas](https://github.com/andiveloper/ansible-recipes-and-gotchas)
 
+- [Ansible Linting with GitHub Actions](https://www.ansible.com/blog/ansible-linting-with-github-actions)
+
 
 ## Talks
 
