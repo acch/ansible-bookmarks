@@ -44,6 +44,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 - [Ansible Linting with GitHub Actions](https://www.ansible.com/blog/ansible-linting-with-github-actions)
 
+- [Tolerable Ansible](https://www.ansible.com/blog/tolerable-ansible)
+
 
 ## Talks
 
