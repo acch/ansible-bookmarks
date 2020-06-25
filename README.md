@@ -62,11 +62,13 @@ This repository collects resources for learning how to write good [Ansible](http
 
 ## Selected Roles
 
-- [Spectrum Scale](https://galaxy.ansible.com/acch/spectrum_scale) &mdash; Highly-customizable role for installing and configuring IBM Spectrum Scale (GPFS)
+- [IBM Spectrum Scale](https://galaxy.ansible.com/acch/spectrum_scale) &mdash; Highly-customizable role for installing and configuring IBM Spectrum Scale (GPFS)
 
-- [ONTAP volume-nfs-share](https://galaxy.ansible.com/chrifey/ontap_volume_nfs_share) &mdash; Role to configure NFS exports (volume, qtree, policy)
+- [NetApp ONTAP volume-nfs-share](https://galaxy.ansible.com/chrifey/ontap_volume_nfs_share) &mdash; Role to configure NFS exports (volume, qtree, policy)
 
-- [Spectrum Virtualize IP-Quorum](https://galaxy.ansible.com/olemyk/ansible_ipquorum) &mdash; Role that installs and configures IP-Quorum service for IBM Spectrum Virtualize
+- [IBM Spectrum Virtualize IP-Quorum](https://galaxy.ansible.com/olemyk/ansible_ipquorum) &mdash; Role that installs and configures IP-Quorum service for IBM Spectrum Virtualize
+
+- [IBM Power Systems AIX Collection](https://galaxy.ansible.com/ibm/power_aix) &mdash; Ansible Content for IBM Power Systems - AIX provides a collection of modules used to manage and deploy Power Systems AIX
 
 - [Regex Test](https://galaxy.ansible.com/acch/regex_test) &mdash; Role for comparing command output with reference file
 
