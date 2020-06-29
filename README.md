@@ -88,6 +88,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 - [Porting Guides](https://docs.ansible.com/ansible/latest/porting_guides/porting_guides.html)
 
+- [Community Guide](https://docs.ansible.com/ansible/devel/community/index.html)
+
 - [Linux System Roles](https://linux-system-roles.github.io/)
 
 ### Jinja2
