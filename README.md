@@ -46,6 +46,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 - [Tolerable Ansible](https://www.ansible.com/blog/tolerable-ansible)
 
+- [Deploying a static website with Ansible](https://www.redhat.com/sysadmin/deploying-static-website-ansible)
+
 
 ## Talks
 
