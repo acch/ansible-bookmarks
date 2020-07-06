@@ -5,7 +5,18 @@
   <br>
 </div>
 
-This repository collects resources for learning how to write good [Ansible](https://www.ansible.com/) playbooks. [Please bring your own.](CONTRIBUTING.md) :blush:
+This repository collects resources for learning how to write good [Ansible](https://www.ansible.com/) playbooks. [Please bring yours!](CONTRIBUTING.md) :blush:
+
+- [Getting Started](#getting-started)
+  - [YAML Syntax](#yaml-syntax)
+- [Articles and Books](#articles-and-books)
+- [Talks](#talks)
+- [Selected Roles](#selected-roles)
+- [Cheatsheets](#cheatsheets)
+- [Reference Documentation](#reference-documentation)
+  - [Jinja2](#jinja2)
+- [License](#license)
+
 
 ## Getting Started
 
