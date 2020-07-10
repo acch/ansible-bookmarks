@@ -7,15 +7,23 @@
 
 This repository collects resources for learning how to write good [Ansible](https://www.ansible.com/) playbooks. [Please bring yours!](CONTRIBUTING.md) :blush:
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
 - [Getting Started](#getting-started)
   - [YAML Syntax](#yaml-syntax)
 - [Articles and Books](#articles-and-books)
 - [Talks](#talks)
+  - [2017](#2017)
+  - [2016](#2016)
 - [Selected Roles](#selected-roles)
 - [Cheatsheets](#cheatsheets)
 - [Reference Documentation](#reference-documentation)
   - [Jinja2](#jinja2)
 - [License](#license)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
 ## Getting Started
