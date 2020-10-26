@@ -115,6 +115,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 - [Linux System Roles](https://linux-system-roles.github.io/)
 
+- [Ansible Automation Platform Certified Content](https://access.redhat.com/articles/3642632)
+
 ### Jinja2
 
 - [Template Designer Documentation](http://jinja.pocoo.org/docs/2.10/templates/)
