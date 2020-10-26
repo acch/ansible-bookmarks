@@ -105,7 +105,7 @@ This repository collects resources for learning how to write good [Ansible](http
 
 - [User Guide](https://docs.ansible.com/ansible/latest/user_guide/index.html)
 
-- [Module Index](https://docs.ansible.com/ansible/latest/modules/list_of_all_modules.html)
+- [Plugin Index](https://docs.ansible.com/ansible/latest/collections/community/general/index.html)
 
 - [Developer Guide](https://docs.ansible.com/ansible/latest/dev_guide/index.html)
 
