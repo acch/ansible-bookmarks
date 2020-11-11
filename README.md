@@ -38,6 +38,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 - [Install Ansible on Windows Using Cygwin](http://www.dcaulfield.com/install-ansible-on-windows-using-cygwin)
 
+- [Ansible Tutorial](https://www.javatpoint.com/ansible)
+
 ### YAML Syntax
 
 - [User Guide &raquo; YAML Syntax](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html) &mdash; Basic overview of correct YAML syntax
