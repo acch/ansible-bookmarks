@@ -42,6 +42,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 - [Ansible Tutorial](https://www.javatpoint.com/ansible)
 
+- [Quick start guide to Ansible for Linux sysadmins](https://www.redhat.com/sysadmin/ansible-quick-start)
+
 ### YAML Syntax
 
 - [User Guide &raquo; YAML Syntax](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html) &mdash; Basic overview of correct YAML syntax
