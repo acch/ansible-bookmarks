@@ -50,6 +50,10 @@ This repository collects resources for learning how to write good [Ansible](http
 
 - [YAML](https://en.wikipedia.org/wiki/YAML) &mdash; Wikipedia, the free encyclopedia
 
+- [YAML for beginners](https://www.redhat.com/sysadmin/yaml-beginners)
+
+- [Understanding YAML for Ansible](https://www.redhat.com/sysadmin/understanding-yaml-ansible)
+
 - [In YAML, how do I break a string over multiple lines?](https://stackoverflow.com/questions/3790454/in-yaml-how-do-i-break-a-string-over-multiple-lines/21699210#21699210)
 
 
