@@ -119,13 +119,15 @@ This repository collects resources for learning how to write good [Ansible](http
 
 - [User Guide](https://docs.ansible.com/ansible/latest/user_guide/index.html)
 
-- [Plugin Index](https://docs.ansible.com/ansible/latest/collections/community/general/index.html)
+- [Index of all Modules](https://docs.ansible.com/ansible/latest/collections/index_module.html)
+  - [Ansible.Builtin](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/index.html)
+  - [Community.General](https://docs.ansible.com/ansible/latest/collections/community/general/index.html)
 
 - [Developer Guide](https://docs.ansible.com/ansible/latest/dev_guide/index.html)
 
-- [Porting Guides](https://docs.ansible.com/ansible/latest/porting_guides/porting_guides.html)
+- [Porting Guides](https://docs.ansible.com/ansible/devel/porting_guides/porting_guides.html)
 
-- [Community Guide](https://docs.ansible.com/ansible/devel/community/index.html)
+- [Community Guide](https://docs.ansible.com/ansible/latest/community/index.html)
 
 - [Linux System Roles](https://linux-system-roles.github.io/)
 
