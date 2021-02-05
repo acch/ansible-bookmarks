@@ -56,6 +56,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 - [In YAML, how do I break a string over multiple lines?](https://stackoverflow.com/questions/3790454/in-yaml-how-do-i-break-a-string-over-multiple-lines/21699210#21699210)
 
+- [YAML Specification](https://yaml.org/spec/1.2/spec.html)
+
 
 ## Articles and Books
 
