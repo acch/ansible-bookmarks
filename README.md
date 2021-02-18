@@ -79,6 +79,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 -   [How to encrypt a single Linux filesystem](https://www.redhat.com/sysadmin/encrypt-single-filesystem)
 
+-   [Handling secrets in your Ansible playbooks](https://www.redhat.com/sysadmin/ansible-playbooks-secrets)
+
 ## Talks
 
 -   [Training Course for Ansible Automation](https://github.com/ansible/workshops)
