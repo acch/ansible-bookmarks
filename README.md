@@ -43,8 +43,6 @@ This repository collects resources for learning how to write good [Ansible](http
 
 -   [Quick start guide to Ansible for Linux sysadmins](https://www.redhat.com/sysadmin/ansible-quick-start)
 
--   [8 steps to developing an Ansible role in Linux](https://www.redhat.com/sysadmin/developing-ansible-role)
-
 -   [Ansible Resources » Videos](https://www.ansible.com/resources/videos)
 
 ### YAML Syntax
@@ -85,6 +83,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 -   [Handling secrets in your Ansible playbooks](https://www.redhat.com/sysadmin/ansible-playbooks-secrets)
 
+-   [8 steps to developing an Ansible role in Linux](https://www.redhat.com/sysadmin/developing-ansible-role)
+
 ## Talks
 
 -   [Training Course for Ansible Automation](https://github.com/ansible/workshops)
@@ -106,6 +106,8 @@ This repository collects resources for learning how to write good [Ansible](http
 -   [IBM Spectrum Virtualize IP-Quorum](https://galaxy.ansible.com/olemyk/ansible_ipquorum) — Role that installs and configures IP-Quorum service for IBM Spectrum Virtualize
 
 -   [IBM Power Systems AIX Collection](https://galaxy.ansible.com/ibm/power_aix) — Ansible Content for IBM Power Systems - AIX provides a collection of modules used to manage and deploy Power Systems AIX
+
+-   [IBM Cloud Ansible Collections](https://github.com/IBM-Cloud/ansible-collection-ibm) — Ansible modules collection for IBM cloud
 
 -   [Regex Test](https://galaxy.ansible.com/acch/regex_test) — Role for comparing command output with reference file
 
