@@ -87,7 +87,7 @@ This repository collects resources for learning how to write good [Ansible](http
 
 ## Talks
 
--   [Training Course for Ansible Automation](https://github.com/ansible/workshops)
+-   [Red Hat Ansible Automation Platform Workshops](https://ansible.github.io/workshops/)
 
 ### 2017
 
