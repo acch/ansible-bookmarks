@@ -115,6 +115,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 -   [Awesome Ansible](https://github.com/jdauphant/awesome-ansible) (archived!)
 
+-   [Awesome Ansible](https://github.com/KeyboardInterrupt/awesome-ansible)
+
 -   [Ansible Cheat Sheet from Jon Warbrick](https://gist.github.com/andreicristianpetcu/b892338de279af9dac067891579cad7d)
 
 -   [Devhints.io cheatcheets](https://devhints.io/ansible)
