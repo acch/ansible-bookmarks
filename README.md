@@ -85,6 +85,10 @@ This repository collects resources for learning how to write good [Ansible](http
 
 -   [8 steps to developing an Ansible role in Linux](https://www.redhat.com/sysadmin/developing-ansible-role)
 
+-   [6 troubleshooting skills for Ansible playbooks](https://www.redhat.com/sysadmin/troubleshoot-ansible-playbooks)
+
+-   [Writing Ansible Modules in Bash](https://github.com/pmarkham/writing-ansible-modules-in-bash/blob/master/ansible_bash_modules.md)
+
 ## Talks
 
 -   [Red Hat Ansible Automation Platform Workshops](https://ansible.github.io/workshops/)
