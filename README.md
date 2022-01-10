@@ -113,6 +113,10 @@ This repository collects resources for learning how to write good [Ansible](http
 
 -   [IBM Cloud Ansible Collections](https://github.com/IBM-Cloud/ansible-collection-ibm) — Ansible modules collection for IBM cloud
 
+-   [Linux System Roles](https://linux-system-roles.github.io/)
+
+-   [Red Hat Enterprise Linux (RHEL) System Roles](https://access.redhat.com/articles/3050101)
+
 -   [Regex Test](https://galaxy.ansible.com/acch/regex_test) — Role for comparing command output with reference file
 
 ## Cheatsheets
@@ -140,9 +144,9 @@ This repository collects resources for learning how to write good [Ansible](http
 
 -   [Community Guide](https://docs.ansible.com/ansible/latest/community/index.html)
 
--   [Linux System Roles](https://linux-system-roles.github.io/)
-
 -   [Ansible Automation Platform Certified Content](https://access.redhat.com/articles/3642632)
+
+-   [Ansible Automation Platform 2.0](https://red.ht/AAP-20)
 
 ### Jinja2
 
