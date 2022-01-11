@@ -144,6 +144,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 -   [Community Guide](https://docs.ansible.com/ansible/latest/community/index.html)
 
+-   [Ansible Collections Checklist](https://github.com/ansible-collections/overview/blob/main/collection_requirements.rst)
+
 -   [Ansible Automation Platform Certified Content](https://access.redhat.com/articles/3642632)
 
 -   [Ansible Automation Platform 2.0](https://red.ht/AAP-20)
