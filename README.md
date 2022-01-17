@@ -63,6 +63,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 -   [Ansible Best Practices: The Essentials](https://www.ansible.com/blog/ansible-best-practices-essentials)
 
+-   [User Guide » Tips and tricks](https://docs.ansible.com/ansible/latest/user_guide/playbooks_best_practices.html)
+
 -   [Use Ansible's YAML callback plugin for a better CLI experience](https://www.jeffgeerling.com/blog/2018/use-ansibles-yaml-callback-plugin-better-cli-experience)
 
 -   [Reboot Plugin for Linux in Ansible 2.7](https://www.ansible.com/blog/reboot-plugin-for-linux-in-ansible-2-7)
