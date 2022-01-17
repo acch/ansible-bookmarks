@@ -20,6 +20,7 @@ This repository collects resources for learning how to write good [Ansible](http
 - [Selected Roles](#selected-roles)
 - [Cheatsheets](#cheatsheets)
 - [Reference Documentation](#reference-documentation)
+  - [Automation Platform](#automation-platform)
   - [Jinja2](#jinja2)
 - [License](#license)
 
@@ -74,6 +75,8 @@ This repository collects resources for learning how to write good [Ansible](http
 -   [Ansible Configuration Management Database](https://github.com/fboender/ansible-cmdb) — Generate host overview from ansible fact gathering output
 
 -   [Ansible recipes and gotchas](https://github.com/andiveloper/ansible-recipes-and-gotchas)
+
+-   [Hands on with Ansible collections](https://www.ansible.com/blog/hands-on-with-ansible-collections)
 
 -   [Ansible Linting with GitHub Actions](https://www.ansible.com/blog/ansible-linting-with-github-actions)
 
@@ -149,6 +152,10 @@ This repository collects resources for learning how to write good [Ansible](http
 -   [Ansible Collections Checklist](https://github.com/ansible-collections/overview/blob/main/collection_requirements.rst)
 
 -   [Ansible Automation Platform Certified Content](https://access.redhat.com/articles/3642632)
+
+### Automation Platform
+
+-   [Introducing Red Hat Ansible Automation Platform](https://www.ansible.com/blog/introducing-red-hat-ansible-automation-platform)
 
 -   [Ansible Automation Platform 2.0](https://red.ht/AAP-20)
 
