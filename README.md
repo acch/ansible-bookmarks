@@ -15,6 +15,7 @@ This repository collects resources for learning how to write good [Ansible](http
   - [YAML Syntax](#yaml-syntax)
 - [Articles and Books](#articles-and-books)
 - [Talks](#talks)
+  - [2018](#2018)
   - [2017](#2017)
   - [2016](#2016)
 - [Selected Roles](#selected-roles)
@@ -97,6 +98,10 @@ This repository collects resources for learning how to write good [Ansible](http
 ## Talks
 
 -   [Red Hat Ansible Automation Platform Workshops](https://ansible.github.io/workshops/)
+
+### 2018
+
+-   [Ansible 202: Best Practices from the field](https://www.youtube.com/watch?v=xGkrSaoSo6M) by [Juan Manuel Parrilla](https://github.com/jparrill) — DevConf Brno
 
 ### 2017
 
