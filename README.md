@@ -103,6 +103,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 -   [Ansible 202: Best Practices from the field](https://www.youtube.com/watch?v=xGkrSaoSo6M) by [Juan Manuel Parrilla](https://github.com/jparrill) — DevConf Brno
 
+-   [Ansible best current practices](https://www.youtube.com/watch?v=4RpqD9GhSOs) by [Lee Garrett](https://github.com/leegarrett) — MiniDebConf Hamburg
+
 ### 2017
 
 -   [Best Practices for Ansible Roles Development](https://www.youtube.com/watch?v=sFuKuHmRuzQ) by [Jiri Tyr](https://github.com/jtyr) — Ansible London
