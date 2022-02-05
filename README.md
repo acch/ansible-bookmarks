@@ -95,6 +95,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 -   [Writing Ansible Modules in Bash](https://github.com/pmarkham/writing-ansible-modules-in-bash/blob/master/ansible_bash_modules.md)
 
+-   [Tuning Ansible For Maximum Performance](https://gryzli.info/2019/02/21/tuning-ansible-for-maximum-performance/)
+
 ## Talks
 
 -   [Red Hat Ansible Automation Platform Workshops](https://ansible.github.io/workshops/)
