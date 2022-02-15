@@ -15,6 +15,7 @@ This repository collects resources for learning how to write good [Ansible](http
   - [YAML Syntax](#yaml-syntax)
 - [Articles and Books](#articles-and-books)
 - [Talks](#talks)
+  - [2022](#2022)
   - [2018](#2018)
   - [2017](#2017)
   - [2016](#2016)
@@ -100,6 +101,16 @@ This repository collects resources for learning how to write good [Ansible](http
 ## Talks
 
 -   [Red Hat Ansible Automation Platform Workshops](https://ansible.github.io/workshops/)
+
+-   [1. Ansible Anwendertreffen](https://www.ansible-anwender.de/post/2020/11/rueckblick/)
+
+-   [2. Ansible Anwendertreffen](https://www.ansible-anwender.de/post/2021/05/rueckblick/)
+
+-   [3. Ansible Anwendertreffen](https://www.ansible-anwender.de/post/2022/02/rueckblick/)
+
+### 2022
+
+-   [Validierung und Integration Testing für Ansible Roles und Playbooks](https://www.youtube.com/watch?v=Cj_d1N8MIEM) - by [Daniel Schier](https://github.com/dschier-wtd)
 
 ### 2018
 
