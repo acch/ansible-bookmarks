@@ -168,6 +168,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 -   [Ansible Automation Platform 2.0](https://red.ht/AAP-20)
 
+-   [Ansible Automation Platform - A video tour](https://www.ansible.com/blog/ansible-automation-platform-a-video-tour)
+
 ### Jinja2
 
 -   [Template Designer Documentation](http://jinja.pocoo.org/docs/2.10/templates/)
