@@ -98,6 +98,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 -   [Tuning Ansible For Maximum Performance](https://gryzli.info/2019/02/21/tuning-ansible-for-maximum-performance/)
 
+-   [How to customize your Ansible logs](https://www.redhat.com/sysadmin/ansible-logs-customize)
+
 ## Talks
 
 -   [Red Hat Ansible Automation Platform Workshops](https://ansible.github.io/workshops/)
