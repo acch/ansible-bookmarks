@@ -179,6 +179,10 @@ This repository collects resources for learning how to write good [Ansible](http
 
 -   [Introducing Red Hat Ansible Automation Platform](https://www.ansible.com/blog/introducing-red-hat-ansible-automation-platform)
 
+-   [Introducing Ansible Automation Platform 2](https://www.ansible.com/blog/introducing-ansible-automation-platform-2)
+
+-   [Introducing Red Hat Ansible Automation Platform 2.1](https://www.ansible.com/blog/introducing-red-hat-ansible-automation-platform-2.1)
+
 -   [Ansible Automation Platform 2.0](https://red.ht/AAP-20)
 
 -   [Ansible Automation Platform - A video tour](https://www.ansible.com/blog/ansible-automation-platform-a-video-tour)
