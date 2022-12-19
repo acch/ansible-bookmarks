@@ -100,6 +100,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 -   [How to customize your Ansible logs](https://www.redhat.com/sysadmin/ansible-logs-customize)
 
+-   [Automate container management on Fedora Linux with the Podman Linux System Role](https://fedoramagazine.org/automate-container-management-on-fedora-linux-with-the-podman-linux-system-role/)
+
 ## Talks
 
 -   [Red Hat Ansible Automation Platform Workshops](https://ansible.github.io/workshops/)
