@@ -102,6 +102,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 -   [Automate container management on Fedora Linux with the Podman Linux System Role](https://fedoramagazine.org/automate-container-management-on-fedora-linux-with-the-podman-linux-system-role/)
 
+-   [How to cache Ansible facts with Redis](https://www.redhat.com/sysadmin/ansible-fact-cache-redis)
+
 ## Talks
 
 -   [Red Hat Ansible Automation Platform Workshops](https://ansible.github.io/workshops/)
