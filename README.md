@@ -106,6 +106,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 -   [Good Practices for Ansible - GPA](https://github.com/redhat-cop/automation-good-practices#readme)
 
+-   [How to work with a list of dictionaries in Ansible](https://www.redhat.com/sysadmin/ansible-jinja-lists-dictionaries)
+
 ## Talks
 
 -   [Red Hat Ansible Automation Platform Workshops](https://ansible.github.io/workshops/)
