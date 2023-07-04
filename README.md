@@ -142,6 +142,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 -   [IBM Spectrum Scale](https://galaxy.ansible.com/acch/spectrum_scale) — Highly-customizable role for installing and configuring IBM Spectrum Scale (GPFS)
 
+-   [Ansible Role: mmmodules](https://github.com/idiv-biodiversity/ansible-role-mmmodules) — Ansible modules for IBM Spectrum Scale (formerly GPFS) file systems
+
 -   [NetApp ONTAP volume-nfs-share](https://galaxy.ansible.com/chrifey/ontap_volume_nfs_share) — Role to configure NFS exports (volume, qtree, policy)
 
 -   [IBM Spectrum Virtualize IP-Quorum](https://galaxy.ansible.com/olemyk/ansible_ipquorum) — Role that installs and configures IP-Quorum service for IBM Spectrum Virtualize
