@@ -108,6 +108,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 -   [How to work with a list of dictionaries in Ansible](https://www.redhat.com/sysadmin/ansible-jinja-lists-dictionaries)
 
+-   [Ansible for DevOps](https://leanpub.com/ansible-for-devops)
+
 ## Talks
 
 -   [Red Hat Ansible Automation Platform Workshops](https://ansible.github.io/workshops/)
