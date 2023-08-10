@@ -110,6 +110,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 -   [Ansible for DevOps](https://leanpub.com/ansible-for-devops)
 
+-   [Ansible data manipulation with a Filter](https://www.ansible.com/blog/ansible-data-manipulation-with-a-filter)
+
 ## Talks
 
 -   [Red Hat Ansible Automation Platform Workshops](https://ansible.github.io/workshops/)
