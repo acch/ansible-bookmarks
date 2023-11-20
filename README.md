@@ -112,6 +112,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 -   [Ansible data manipulation with a Filter](https://www.ansible.com/blog/ansible-data-manipulation-with-a-filter)
 
+-   [Event-driven remediation with systemd and Red Hat Ansible Automation Platform](https://www.ansible.com/blog/event-driven-remediation-with-systemd-and-red-hat-ansible-automation-platform)
+
 ## Talks
 
 -   [Red Hat Ansible Automation Platform Workshops](https://ansible.github.io/workshops/)
