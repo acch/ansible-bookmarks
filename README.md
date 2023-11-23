@@ -14,6 +14,7 @@ This repository collects resources for learning how to write good [Ansible](http
 - [Getting Started](#getting-started)
   - [YAML Syntax](#yaml-syntax)
 - [Articles and Books](#articles-and-books)
+  - [Event-Driven](#event-driven)
 - [Talks](#talks)
   - [2022](#2022)
   - [2018](#2018)
@@ -111,6 +112,10 @@ This repository collects resources for learning how to write good [Ansible](http
 -   [Ansible for DevOps](https://leanpub.com/ansible-for-devops)
 
 -   [Ansible data manipulation with a Filter](https://www.ansible.com/blog/ansible-data-manipulation-with-a-filter)
+
+### Event-Driven
+
+-   [Ansible Rulebook documentation](https://ansible.readthedocs.io/projects/rulebook/)
 
 -   [Event-driven remediation with systemd and Red Hat Ansible Automation Platform](https://www.ansible.com/blog/event-driven-remediation-with-systemd-and-red-hat-ansible-automation-platform)
 
