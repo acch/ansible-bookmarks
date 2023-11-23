@@ -115,6 +115,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 ### Event-Driven
 
+-   [Introducing the Event-Driven Ansible developer preview](https://www.ansible.com/blog/introducing-event-driven-ansible)
+
 -   [Ansible Rulebook documentation](https://ansible.readthedocs.io/projects/rulebook/)
 
 -   [Event-driven remediation with systemd and Red Hat Ansible Automation Platform](https://www.ansible.com/blog/event-driven-remediation-with-systemd-and-red-hat-ansible-automation-platform)
