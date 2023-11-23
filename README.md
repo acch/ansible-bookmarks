@@ -109,7 +109,9 @@ This repository collects resources for learning how to write good [Ansible](http
 
 -   [How to work with a list of dictionaries in Ansible](https://www.redhat.com/sysadmin/ansible-jinja-lists-dictionaries)
 
--   [Ansible for DevOps](https://leanpub.com/ansible-for-devops)
+-   [Ansible for DevOps — by Jeff Geerling](https://www.ansiblefordevops.com/)
+
+-   [Ansible for Kubernetes — by Jeff Geerling](https://www.ansibleforkubernetes.com/)
 
 -   [Ansible data manipulation with a Filter](https://www.ansible.com/blog/ansible-data-manipulation-with-a-filter)
 
