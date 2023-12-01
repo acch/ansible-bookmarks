@@ -115,6 +115,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 -   [Ansible data manipulation with a Filter](https://www.ansible.com/blog/ansible-data-manipulation-with-a-filter)
 
+-   [Using Ansible for Automation with IBM Power Systems](https://www.redbooks.ibm.com/redpieces/abstracts/sg248551.html)
+
 ### Event-Driven
 
 -   [Introducing the Event-Driven Ansible developer preview](https://www.ansible.com/blog/introducing-event-driven-ansible)
