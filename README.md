@@ -117,6 +117,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 -   [Using Ansible for Automation with IBM Power Systems](https://www.redbooks.ibm.com/redpieces/abstracts/sg248551.html)
 
+-   [Peeling back the layers and understanding automation mesh](https://www.ansible.com/blog/peeling-back-the-layers-and-understanding-automation-mesh)
+
 ### Event-Driven
 
 -   [Introducing the Event-Driven Ansible developer preview](https://www.ansible.com/blog/introducing-event-driven-ansible)
