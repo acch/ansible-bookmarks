@@ -200,6 +200,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 -   [Developer Guide](https://docs.ansible.com/ansible/latest/dev_guide/index.html)
 
+-   [Ansible Roadmap](https://docs.ansible.com/ansible/devel/roadmap/ansible_roadmap_index.html)
+
 -   [Porting Guides](https://docs.ansible.com/ansible/devel/porting_guides/porting_guides.html)
 
 -   [Community Guide](https://docs.ansible.com/ansible/latest/community/index.html)
