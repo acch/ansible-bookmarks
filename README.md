@@ -143,6 +143,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 -   [4. Ansible Anwendertreffen](https://www.ansible-anwender.de/post/2023/05/rueckblick/)
 
+-   [5. Ansible Anwendertreffen](https://www.ansible-anwender.de/post/2024/03/rueckblick/)
+
 ### 2022
 
 -   [Validierung und Integration Testing für Ansible Roles und Playbooks](https://www.youtube.com/watch?v=Cj_d1N8MIEM) - by [Daniel Schier](https://github.com/dschier-wtd)
