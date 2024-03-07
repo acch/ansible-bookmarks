@@ -121,6 +121,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 -   [Pushing Kickstarts with Ansible](https://medium.com/@jackprice/pushing-kickstarts-with-ansible-122b2cd9c1e)
 
+-   [Create an efficient Ansible development environment in VS Code IDE](https://developers.redhat.com/articles/2024/03/05/create-efficient-ansible-development-environment-vs-code-ide)
+
 ### Event-Driven
 
 -   [Introducing the Event-Driven Ansible developer preview](https://www.ansible.com/blog/introducing-event-driven-ansible)
