@@ -123,6 +123,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 -   [Create an efficient Ansible development environment in VS Code IDE](https://developers.redhat.com/articles/2024/03/05/create-efficient-ansible-development-environment-vs-code-ide)
 
+-   [ansible-content-actions](https://github.com/ansible/ansible-content-actions) — Combine GitHub Actions to create a streamlined workflow for testing Ansible collection repositories on GitHub
+
 ### Event-Driven
 
 -   [Introducing the Event-Driven Ansible developer preview](https://www.ansible.com/blog/introducing-event-driven-ansible)
