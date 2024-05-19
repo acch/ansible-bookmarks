@@ -125,6 +125,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 -   [ansible-content-actions](https://github.com/ansible/ansible-content-actions) — Combine GitHub Actions to create a streamlined workflow for testing Ansible collection repositories on GitHub
 
+-   [Making the double hop on Windows with Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/making-double-hop-windows-ansible)
+
 ### Event-Driven
 
 -   [Introducing the Event-Driven Ansible developer preview](https://www.ansible.com/blog/introducing-event-driven-ansible)
