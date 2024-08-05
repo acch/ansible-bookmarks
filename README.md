@@ -228,6 +228,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 -   [Ansible Automation Platform Certified Content](https://access.redhat.com/articles/3642632)
 
+-   [`ansible-core` support matrix](https://docs.ansible.com/ansible/latest/reference_appendices/release_and_maintenance.html#ansible-core-support-matrix)
+
 ### Automation Platform
 
 -   [Introducing Red Hat Ansible Automation Platform](https://www.ansible.com/blog/introducing-red-hat-ansible-automation-platform)
