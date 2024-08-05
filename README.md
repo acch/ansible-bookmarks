@@ -129,6 +129,7 @@ This repository collects resources for learning how to write good [Ansible](http
 
 -   [Azure Automation with Ansible](https://mycloudrevolution.com/2023/12/19/azure-automation-with-ansible/)
 
+-   [Ansible Forms](https://ansibleforms.com/) — Lightweight node.js webapplication to generate userfriendly and pretty forms to kickoff Ansible playbooks or AWX/Tower templates
 
 ### Event-Driven
 
