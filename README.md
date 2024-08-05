@@ -127,6 +127,9 @@ This repository collects resources for learning how to write good [Ansible](http
 
 -   [Making the double hop on Windows with Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/making-double-hop-windows-ansible)
 
+-   [Azure Automation with Ansible](https://mycloudrevolution.com/2023/12/19/azure-automation-with-ansible/)
+
+
 ### Event-Driven
 
 -   [Introducing the Event-Driven Ansible developer preview](https://www.ansible.com/blog/introducing-event-driven-ansible)
