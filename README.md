@@ -248,6 +248,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 -   [What's new in Ansible Automation Platform 2.4](https://www.ansible.com/blog/whats-new-in-ansible-automation-platform-2.4)
 
+-   [What’s new in Red Hat Ansible Automation Platform 2.5](https://developers.redhat.com/blog/2024/10/01/whats-new-red-hat-ansible-automation-platform-25)
+
 ### Jinja2
 
 -   [Template Designer Documentation](http://jinja.pocoo.org/docs/2.10/templates/)
