@@ -131,6 +131,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 -   [Ansible Forms](https://ansibleforms.com/) — Lightweight node.js webapplication to generate userfriendly and pretty forms to kickoff Ansible playbooks or AWX/Tower templates
 
+-   [Ansible Best Practices](https://timgrt.github.io/Ansible-Best-Practices/) — Good and best practices from Ansible practitioners and experience from multiple Ansible projects
+
 ### Event-Driven
 
 -   [Introducing the Event-Driven Ansible developer preview](https://www.ansible.com/blog/introducing-event-driven-ansible)
