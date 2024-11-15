@@ -197,6 +197,10 @@ This repository collects resources for learning how to write good [Ansible](http
 
 -   [Regex Test](https://galaxy.ansible.com/acch/regex_test) — Role for comparing command output with reference file
 
+-   [IBM Storage Scale](https://github.com/IBM/ibm-spectrum-scale-install-infra) — Spectrum Scale Installation and Configuration
+
+-   [IBM Storage Protect](https://github.com/IBM/ansible-storage-protect) — Ansible collection for IBM Storage Protect
+
 ## Cheatsheets
 
 -   [Awesome Ansible](https://github.com/jdauphant/awesome-ansible) (archived!)
