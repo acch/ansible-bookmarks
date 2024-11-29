@@ -115,7 +115,7 @@ This repository collects resources for learning how to write good [Ansible](http
 
 -   [Ansible data manipulation with a Filter](https://www.ansible.com/blog/ansible-data-manipulation-with-a-filter)
 
--   [Using Ansible for Automation with IBM Power Systems](https://www.redbooks.ibm.com/redpieces/abstracts/sg248551.html)
+-   [Using Ansible for Automation in IBM Power Environments](https://www.redbooks.ibm.com/abstracts/sg248551.html)
 
 -   [Peeling back the layers and understanding automation mesh](https://www.ansible.com/blog/peeling-back-the-layers-and-understanding-automation-mesh)
 
