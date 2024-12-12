@@ -105,7 +105,7 @@ This repository collects resources for learning how to write good [Ansible](http
 
 -   [How to cache Ansible facts with Redis](https://www.redhat.com/sysadmin/ansible-fact-cache-redis)
 
--   [Good Practices for Ansible - GPA](https://github.com/redhat-cop/automation-good-practices#readme)
+-   [Good Practices for Ansible - GPA](https://redhat-cop.github.io/automation-good-practices/)
 
 -   [How to work with a list of dictionaries in Ansible](https://www.redhat.com/sysadmin/ansible-jinja-lists-dictionaries)
 
