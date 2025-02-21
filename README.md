@@ -133,6 +133,12 @@ This repository collects resources for learning how to write good [Ansible](http
 
 -   [Ansible Best Practices](https://timgrt.github.io/Ansible-Best-Practices/) — Good and best practices from Ansible practitioners and experience from multiple Ansible projects
 
+-   [Strategies for eliminating Ansible hardcoded credentials](https://developers.redhat.com/articles/2025/01/23/strategies-eliminating-ansible-hardcoded-credentials)
+
+-   [How to manage Python dependencies in Ansible execution environments](https://developers.redhat.com/articles/2025/01/27/how-manage-python-dependencies-ansible-execution-environments)
+
+-   [How to Troubleshoot and Debug Ansible Playbooks](https://spacelift.io/blog/ansible-debug)
+
 ### Event-Driven
 
 -   [Introducing the Event-Driven Ansible developer preview](https://www.ansible.com/blog/introducing-event-driven-ansible)
