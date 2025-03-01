@@ -139,6 +139,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 -   [How to Troubleshoot and Debug Ansible Playbooks](https://spacelift.io/blog/ansible-debug)
 
+-   [The Tao of Ansible](https://github.com/stiliajohny/Book-The-Tao-of-Ansible) — Mastering Automation with Simplicity and Grace by John Stilia (Ioannis Stylianakos)
+
 ### Event-Driven
 
 -   [Introducing the Event-Driven Ansible developer preview](https://www.ansible.com/blog/introducing-event-driven-ansible)
