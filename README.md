@@ -141,6 +141,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 -   [The Tao of Ansible](https://github.com/stiliajohny/Book-The-Tao-of-Ansible) — Mastering Automation with Simplicity and Grace by John Stilia (Ioannis Stylianakos)
 
+-   [Automate Your Network](https://github.com/automateyournetwork/automate_your_network) — Introducing the Modern Approach to Enterprise Network management (John Capobianco)
+
 ### Event-Driven
 
 -   [Introducing the Event-Driven Ansible developer preview](https://www.ansible.com/blog/introducing-event-driven-ansible)
