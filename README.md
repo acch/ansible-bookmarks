@@ -249,6 +249,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 ### Automation Platform
 
+-   [Automation with Ansible AWX](https://spacelift.io/blog/ansible-awx)
+
 -   [Introducing Red Hat Ansible Automation Platform](https://www.ansible.com/blog/introducing-red-hat-ansible-automation-platform)
 
 -   [Introducing Ansible Automation Platform 2](https://www.ansible.com/blog/introducing-ansible-automation-platform-2)
