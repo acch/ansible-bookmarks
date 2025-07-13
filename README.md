@@ -42,8 +42,6 @@ This repository collects resources for learning how to write good [Ansible](http
 
 -   [Install Ansible on Windows Using Cygwin](http://www.dcaulfield.com/install-ansible-on-windows-using-cygwin)
 
--   [Ansible Tutorial](https://www.javatpoint.com/ansible)
-
 -   [Quick start guide to Ansible for Linux sysadmins](https://www.redhat.com/sysadmin/ansible-quick-start)
 
 -   [Ansible Resources » Videos](https://www.ansible.com/resources/videos)
@@ -236,8 +234,6 @@ This repository collects resources for learning how to write good [Ansible](http
 -   [Porting Guides](https://docs.ansible.com/ansible/devel/porting_guides/porting_guides.html)
 
 -   [Community Guide](https://docs.ansible.com/ansible/latest/community/index.html)
-
--   [Ansible ecosystem documentation](https://ansible.readthedocs.io/en/latest/)
 
 -   [The Ansible Community forum](https://forum.ansible.com/)
 
