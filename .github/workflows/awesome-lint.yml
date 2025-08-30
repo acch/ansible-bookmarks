@@ -1,0 +1,13 @@
+# source: https://github.com/sindresorhus/awesome-lint
+name: CI
+on:
+  push:
+    branches: [main]
+jobs:
+  Awesome_Lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - run: npx awesome-lint
