@@ -1,4 +1,4 @@
-[![CI](https://github.com/acch/ansible-bookmarks/actions/workflows/awesome-lint.yml/badge.svg)](https://github.com/acch/ansible-bookmarks/actions/workflows/awesome-lint.yml)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![CI](https://github.com/acch/ansible-bookmarks/actions/workflows/awesome-lint.yml/badge.svg)](https://github.com/acch/ansible-bookmarks/actions/workflows/awesome-lint.yml)
 
 # Ansible Bookmarks
 
