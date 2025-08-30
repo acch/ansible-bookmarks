@@ -1,5 +1,9 @@
 [![CI](https://github.com/acch/ansible-bookmarks/actions/workflows/awesome-lint.yml/badge.svg)](https://github.com/acch/ansible-bookmarks/actions/workflows/awesome-lint.yml)
 
+# Ansible Bookmarks
+
+This repository collects resources for learning how to write good [Ansible](https://www.ansible.com/) playbooks. [Please bring yours!](CONTRIBUTING.md) :blush:
+
 <div align="center">
   <br>
   <img width="203" height="250" src="ansible.png" alt="Ansible logo">
@@ -7,7 +11,7 @@
   <br>
 </div>
 
-This repository collects resources for learning how to write good [Ansible](https://www.ansible.com/) playbooks. [Please bring yours!](CONTRIBUTING.md) :blush:
+## Table of Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
