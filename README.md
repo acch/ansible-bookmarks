@@ -1,3 +1,5 @@
+[![CI](https://github.com/acch/ansible-bookmarks/actions/workflows/awesome-lint.yml/badge.svg)](https://github.com/acch/ansible-bookmarks/actions/workflows/awesome-lint.yml)
+
 <div align="center">
   <br>
   <img width="203" height="250" src="ansible.png" alt="Ansible logo">
