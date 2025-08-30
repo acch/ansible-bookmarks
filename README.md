@@ -30,7 +30,6 @@ This repository collects resources for learning how to write good [Ansible](http
 - [Reference Documentation](#reference-documentation)
   - [Automation Platform](#automation-platform)
   - [Jinja2](#jinja2)
-- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -276,7 +275,3 @@ This repository collects resources for learning how to write good [Ansible](http
 -   [Template Designer Documentation](http://jinja.pocoo.org/docs/2.10/templates/)
 
 -   [User Guide » Templating Jinja2](https://docs.ansible.com/ansible/latest/user_guide/playbooks_templating.html)
-
-## License
-
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
