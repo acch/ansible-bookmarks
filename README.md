@@ -131,7 +131,7 @@ This repository collects resources for learning how to write good [Ansible](http
 
 - [Azure Automation with Ansible](https://mycloudrevolution.com/2023/12/19/azure-automation-with-ansible/)
 
-- [Ansible Forms](https://ansibleforms.com/) - Lightweight node.js webapplication to generate userfriendly and pretty forms to kickoff Ansible playbooks or AWX/Tower templates
+- [Ansible Forms](https://ansibleforms.com/) - Lightweight Node.js webapplication to generate userfriendly and pretty forms to kickoff Ansible playbooks or AWX/Tower templates
 
 - [Ansible Best Practices](https://timgrt.github.io/Ansible-Best-Practices/) - Good and best practices from Ansible practitioners and experience from multiple Ansible projects
 
@@ -177,17 +177,17 @@ This repository collects resources for learning how to write good [Ansible](http
 
 ### 2018
 
-- [Ansible 202: Best Practices from the field](https://www.youtube.com/watch?v=xGkrSaoSo6M) by [Juan Manuel Parrilla](https://github.com/jparrill) - DevConf Brno
+- [Ansible 202: Best Practices from the field](https://www.youtube.com/watch?v=xGkrSaoSo6M) - by [Juan Manuel Parrilla](https://github.com/jparrill) - DevConf Brno
 
-- [Ansible best current practices](https://www.youtube.com/watch?v=4RpqD9GhSOs) by [Lee Garrett](https://github.com/leegarrett) - MiniDebConf Hamburg
+- [Ansible best current practices](https://www.youtube.com/watch?v=4RpqD9GhSOs) - by [Lee Garrett](https://github.com/leegarrett) - MiniDebConf Hamburg
 
 ### 2017
 
-- [Best Practices for Ansible Roles Development](https://www.youtube.com/watch?v=sFuKuHmRuzQ) by [Jiri Tyr](https://github.com/jtyr) - Ansible London
+- [Best Practices for Ansible Roles Development](https://www.youtube.com/watch?v=sFuKuHmRuzQ) - by [Jiri Tyr](https://github.com/jtyr) - Ansible London
 
 ### 2016
 
-- [Ansible From Zero to Best Practices](https://willthames.github.io/devops-singapore-2016/01-intro.html) by [Will Thames](https://github.com/willthames) - DevOpsDays Singapore
+- [Ansible From Zero to Best Practices](https://willthames.github.io/devops-singapore-2016/01-intro.html) - by [Will Thames](https://github.com/willthames) - DevOpsDays Singapore
 
 ## Selected Roles
 
