@@ -35,9 +35,9 @@ This repository collects resources for learning how to write good [Ansible](http
 
 ## Getting Started
 
-- [User Guide » Getting Started](https://docs.ansible.com/ansible/latest/user_guide/intro_getting_started.html) - Documentation section about how to initially get Ansible running
+- [User Guide » Getting Started](https://docs.ansible.com/ansible/latest/user_guide/intro_getting_started.html) - Documentation section about how to initially get Ansible running.
 
-- [Ansible-Boilerplate](https://github.com/acch/ansible-boilerplate) - Basic template for new Ansible projects
+- [Ansible-Boilerplate](https://github.com/acch/ansible-boilerplate) - Basic template for new Ansible projects.
 
 - [How Ansible Works](https://www.ansible.com/overview/how-ansible-works)
 
@@ -53,9 +53,9 @@ This repository collects resources for learning how to write good [Ansible](http
 
 ### YAML Syntax
 
-- [User Guide » YAML Syntax](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html) - Basic overview of correct YAML syntax
+- [User Guide » YAML Syntax](https://docs.ansible.com/ansible/latest/reference_appendices/YAMLSyntax.html) - Basic overview of correct YAML syntax.
 
-- [YAML](https://en.wikipedia.org/wiki/YAML) - Wikipedia, the free encyclopedia
+- [YAML](https://en.wikipedia.org/wiki/YAML) - Wikipedia, the free encyclopedia.
 
 - [YAML for beginners](https://www.redhat.com/sysadmin/yaml-beginners)
 
@@ -77,7 +77,7 @@ This repository collects resources for learning how to write good [Ansible](http
 
 - [Dealing with Unreliable Connections and Services](https://www.ansible.com/blog/ansible-tips-and-tricks-dealing-with-unreliable-connections-and-services)
 
-- [Ansible Configuration Management Database](https://github.com/fboender/ansible-cmdb) - Generate host overview from ansible fact gathering output
+- [Ansible Configuration Management Database](https://github.com/fboender/ansible-cmdb) - Generate host overview from ansible fact gathering output.
 
 - [Ansible recipes and gotchas](https://github.com/andiveloper/ansible-recipes-and-gotchas)
 
@@ -125,15 +125,15 @@ This repository collects resources for learning how to write good [Ansible](http
 
 - [Create an efficient Ansible development environment in VS Code IDE](https://developers.redhat.com/articles/2024/03/05/create-efficient-ansible-development-environment-vs-code-ide)
 
-- [ansible-content-actions](https://github.com/ansible/ansible-content-actions) - Combine GitHub Actions to create a streamlined workflow for testing Ansible collection repositories on GitHub
+- [ansible-content-actions](https://github.com/ansible/ansible-content-actions) - Combine GitHub Actions to create a streamlined workflow for testing Ansible collection repositories on GitHub.
 
 - [Making the double hop on Windows with Red Hat Ansible Automation Platform](https://www.redhat.com/en/blog/making-double-hop-windows-ansible)
 
 - [Azure Automation with Ansible](https://mycloudrevolution.com/2023/12/19/azure-automation-with-ansible/)
 
-- [Ansible Forms](https://ansibleforms.com/) - Lightweight Node.js webapplication to generate userfriendly and pretty forms to kickoff Ansible playbooks or AWX/Tower templates
+- [Ansible Forms](https://ansibleforms.com/) - Lightweight Node.js webapplication to generate userfriendly and pretty forms to kickoff Ansible playbooks or AWX/Tower templates.
 
-- [Ansible Best Practices](https://timgrt.github.io/Ansible-Best-Practices/) - Good and best practices from Ansible practitioners and experience from multiple Ansible projects
+- [Ansible Best Practices](https://timgrt.github.io/Ansible-Best-Practices/) - Good and best practices from Ansible practitioners and experience from multiple Ansible projects.
 
 - [Strategies for eliminating Ansible hardcoded credentials](https://developers.redhat.com/articles/2025/01/23/strategies-eliminating-ansible-hardcoded-credentials)
 
@@ -141,9 +141,9 @@ This repository collects resources for learning how to write good [Ansible](http
 
 - [How to Troubleshoot and Debug Ansible Playbooks](https://spacelift.io/blog/ansible-debug)
 
-- [The Tao of Ansible](https://github.com/stiliajohny/Book-The-Tao-of-Ansible) - Mastering Automation with Simplicity and Grace by John Stilia (Ioannis Stylianakos)
+- [The Tao of Ansible](https://github.com/stiliajohny/Book-The-Tao-of-Ansible) - Mastering Automation with Simplicity and Grace by John Stilia (Ioannis Stylianakos).
 
-- [Automate Your Network](https://github.com/automateyournetwork/automate_your_network) - Introducing the Modern Approach to Enterprise Network management (John Capobianco)
+- [Automate Your Network](https://github.com/automateyournetwork/automate_your_network) - Introducing the Modern Approach to Enterprise Network management (John Capobianco).
 
 ### Event-Driven
 
@@ -177,41 +177,41 @@ This repository collects resources for learning how to write good [Ansible](http
 
 ### 2018
 
-- [Ansible 202: Best Practices from the field](https://www.youtube.com/watch?v=xGkrSaoSo6M) - by [Juan Manuel Parrilla](https://github.com/jparrill) - DevConf Brno
+- [Ansible 202: Best Practices from the field](https://www.youtube.com/watch?v=xGkrSaoSo6M) - by [Juan Manuel Parrilla](https://github.com/jparrill) - DevConf Brno.
 
-- [Ansible best current practices](https://www.youtube.com/watch?v=4RpqD9GhSOs) - by [Lee Garrett](https://github.com/leegarrett) - MiniDebConf Hamburg
+- [Ansible best current practices](https://www.youtube.com/watch?v=4RpqD9GhSOs) - by [Lee Garrett](https://github.com/leegarrett) - MiniDebConf Hamburg.
 
 ### 2017
 
-- [Best Practices for Ansible Roles Development](https://www.youtube.com/watch?v=sFuKuHmRuzQ) - by [Jiri Tyr](https://github.com/jtyr) - Ansible London
+- [Best Practices for Ansible Roles Development](https://www.youtube.com/watch?v=sFuKuHmRuzQ) - by [Jiri Tyr](https://github.com/jtyr) - Ansible London.
 
 ### 2016
 
-- [Ansible From Zero to Best Practices](https://willthames.github.io/devops-singapore-2016/01-intro.html) - by [Will Thames](https://github.com/willthames) - DevOpsDays Singapore
+- [Ansible From Zero to Best Practices](https://willthames.github.io/devops-singapore-2016/01-intro.html) - by [Will Thames](https://github.com/willthames) - DevOpsDays Singapore.
 
 ## Selected Roles
 
-- [IBM Spectrum Scale](https://galaxy.ansible.com/acch/spectrum_scale) - Highly-customizable role for installing and configuring IBM Spectrum Scale (GPFS)
+- [IBM Spectrum Scale](https://galaxy.ansible.com/acch/spectrum_scale) - Highly-customizable role for installing and configuring IBM Spectrum Scale (GPFS).
 
-- [Ansible Role: mmmodules](https://github.com/idiv-biodiversity/ansible-role-mmmodules) - Ansible modules for IBM Spectrum Scale (formerly GPFS) file systems
+- [Ansible Role: mmmodules](https://github.com/idiv-biodiversity/ansible-role-mmmodules) - Ansible modules for IBM Spectrum Scale (formerly GPFS) file systems.
 
-- [NetApp ONTAP volume-nfs-share](https://galaxy.ansible.com/chrifey/ontap_volume_nfs_share) - Role to configure NFS exports (volume, qtree, policy)
+- [NetApp ONTAP volume-nfs-share](https://galaxy.ansible.com/chrifey/ontap_volume_nfs_share) - Role to configure NFS exports (volume, qtree, policy).
 
-- [IBM Spectrum Virtualize IP-Quorum](https://galaxy.ansible.com/olemyk/ansible_ipquorum) - Role that installs and configures IP-Quorum service for IBM Spectrum Virtualize
+- [IBM Spectrum Virtualize IP-Quorum](https://galaxy.ansible.com/olemyk/ansible_ipquorum) - Role that installs and configures IP-Quorum service for IBM Spectrum Virtualize.
 
-- [IBM Power Systems AIX Collection](https://galaxy.ansible.com/ibm/power_aix) - Ansible Content for IBM Power Systems - AIX provides a collection of modules used to manage and deploy Power Systems AIX
+- [IBM Power Systems AIX Collection](https://galaxy.ansible.com/ibm/power_aix) - Ansible Content for IBM Power Systems - AIX provides a collection of modules used to manage and deploy Power Systems AIX.
 
-- [IBM Cloud Ansible Collections](https://github.com/IBM-Cloud/ansible-collection-ibm) - Ansible modules collection for IBM cloud
+- [IBM Cloud Ansible Collections](https://github.com/IBM-Cloud/ansible-collection-ibm) - Ansible modules collection for IBM cloud.
 
 - [Linux System Roles](https://linux-system-roles.github.io/)
 
 - [Red Hat Enterprise Linux (RHEL) System Roles](https://access.redhat.com/articles/3050101)
 
-- [Regex Test](https://galaxy.ansible.com/acch/regex_test) - Role for comparing command output with reference file
+- [Regex Test](https://galaxy.ansible.com/acch/regex_test) - Role for comparing command output with reference file.
 
-- [IBM Storage Scale](https://github.com/IBM/ibm-spectrum-scale-install-infra) - Spectrum Scale Installation and Configuration
+- [IBM Storage Scale](https://github.com/IBM/ibm-spectrum-scale-install-infra) - Spectrum Scale Installation and Configuration.
 
-- [IBM Storage Protect](https://github.com/IBM/ansible-storage-protect) - Ansible collection for IBM Storage Protect
+- [IBM Storage Protect](https://github.com/IBM/ansible-storage-protect) - Ansible collection for IBM Storage Protect.
 
 ## Cheatsheets
 
@@ -268,7 +268,7 @@ This repository collects resources for learning how to write good [Ansible](http
 
 - [What's new in Ansible Automation Platform 2.4](https://www.ansible.com/blog/whats-new-in-ansible-automation-platform-2.4)
 
-- [What’s new in Red Hat Ansible Automation Platform 2.5](https://developers.redhat.com/blog/2024/10/01/whats-new-red-hat-ansible-automation-platform-25)
+- [What's new in Red Hat Ansible Automation Platform 2.5](https://developers.redhat.com/blog/2024/10/01/whats-new-red-hat-ansible-automation-platform-25)
 
 ### Jinja2
 
