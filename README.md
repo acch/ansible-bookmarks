@@ -145,6 +145,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 - [Automate Your Network](https://github.com/automateyournetwork/automate_your_network) - Introducing the Modern Approach to Enterprise Network management (John Capobianco).
 
+- [How to start configuration as code for an Ansible instance](https://developers.redhat.com/articles/2025/05/27/how-start-configuration-code-ansible-instance)
+
 ### Event-Driven
 
 - [Introducing the Event-Driven Ansible developer preview](https://www.ansible.com/blog/introducing-event-driven-ansible)
@@ -256,13 +258,13 @@ This repository collects resources for learning how to write good [Ansible](http
 
 - [Introducing Red Hat Ansible Automation Platform](https://www.ansible.com/blog/introducing-red-hat-ansible-automation-platform)
 
+- [Ansible Automation Platform - A video tour](https://www.ansible.com/blog/ansible-automation-platform-a-video-tour)
+
 - [Introducing Ansible Automation Platform 2](https://www.ansible.com/blog/introducing-ansible-automation-platform-2)
 
 - [Ansible Automation Platform 2.0](https://red.ht/AAP-20)
 
 - [Introducing Red Hat Ansible Automation Platform 2.1](https://www.ansible.com/blog/introducing-red-hat-ansible-automation-platform-2.1)
-
-- [Ansible Automation Platform - A video tour](https://www.ansible.com/blog/ansible-automation-platform-a-video-tour)
 
 - [What's new in Ansible Automation Platform 2.2](https://www.ansible.com/blog/whats-new-in-ansible-automation-platform-2.2)
 
