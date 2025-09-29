@@ -1,6 +1,4 @@
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![CI](https://github.com/acch/ansible-bookmarks/actions/workflows/awesome-lint.yml/badge.svg)](https://github.com/acch/ansible-bookmarks/actions/workflows/awesome-lint.yml)
-
-# Ansible Bookmarks
+# Ansible Bookmarks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![CI](https://github.com/acch/ansible-bookmarks/actions/workflows/awesome-lint.yml/badge.svg)](https://github.com/acch/ansible-bookmarks/actions/workflows/awesome-lint.yml)
 
 This repository collects resources for learning how to write good [Ansible](https://www.ansible.com/) playbooks. [Please bring yours!](CONTRIBUTING.md) :blush:
 
@@ -146,6 +144,8 @@ This repository collects resources for learning how to write good [Ansible](http
 - [Automate Your Network](https://github.com/automateyournetwork/automate_your_network) - Introducing the Modern Approach to Enterprise Network management (John Capobianco).
 
 - [How to start configuration as code for an Ansible instance](https://developers.redhat.com/articles/2025/05/27/how-start-configuration-code-ansible-instance)
+
+- [New Red Hat Ansible Certified Content Collections for HashiCorp Terraform and HashiCorp Vault](https://www.redhat.com/en/blog/new-ansible-certified-content-hashicorp-terraformvault)
 
 ### Event-Driven
 
