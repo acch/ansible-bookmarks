@@ -147,6 +147,8 @@ This repository collects resources for learning how to write good [Ansible](http
 
 - [New Red Hat Ansible Certified Content Collections for HashiCorp Terraform and HashiCorp Vault](https://www.redhat.com/en/blog/new-ansible-certified-content-hashicorp-terraformvault)
 
+- [Ansible: pure (only in its) pragmatism](https://andrejradovic.com/blog/ansible/)
+
 ### Event-Driven
 
 - [Introducing the Event-Driven Ansible developer preview](https://www.ansible.com/blog/introducing-event-driven-ansible)
