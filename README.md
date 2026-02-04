@@ -75,7 +75,7 @@ This repository collects resources for learning how to write good [Ansible](http
 
 - [Dealing with Unreliable Connections and Services](https://www.ansible.com/blog/ansible-tips-and-tricks-dealing-with-unreliable-connections-and-services)
 
-- [Ansible Configuration Management Database](https://github.com/fboender/ansible-cmdb) - Generate host overview from Ansible fact gathering output
+- [Ansible Configuration Management Database](https://github.com/fboender/ansible-cmdb) - Generate host overview from Ansible fact gathering output.
 
 - [Ansible recipes and gotchas](https://github.com/andiveloper/ansible-recipes-and-gotchas)
 
@@ -148,6 +148,8 @@ This repository collects resources for learning how to write good [Ansible](http
 - [New Red Hat Ansible Certified Content Collections for HashiCorp Terraform and HashiCorp Vault](https://www.redhat.com/en/blog/new-ansible-certified-content-hashicorp-terraformvault)
 
 - [Ansible: pure (only in its) pragmatism](https://andrejradovic.com/blog/ansible/)
+
+- [Ansible Configuration Drift Management, Detection & Fixes](https://spacelift.io/blog/ansible-configuration-drift-management)
 
 ### Event-Driven
 
